@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asp.netMVC_Web", "Asp.netMVC_Web\Asp.netMVC_Web.csproj", "{9D94335B-EAB9-48EB-83A1-B8AD747023E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Entities", "_Entities\_Entities.csproj", "{89BCE765-0BEE-4EB4-B7C5-5B95E1BE7908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D94335B-EAB9-48EB-83A1-B8AD747023E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D94335B-EAB9-48EB-83A1-B8AD747023E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D94335B-EAB9-48EB-83A1-B8AD747023E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D94335B-EAB9-48EB-83A1-B8AD747023E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BCE765-0BEE-4EB4-B7C5-5B95E1BE7908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BCE765-0BEE-4EB4-B7C5-5B95E1BE7908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BCE765-0BEE-4EB4-B7C5-5B95E1BE7908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BCE765-0BEE-4EB4-B7C5-5B95E1BE7908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E018ED20-B4CA-4785-8804-93FE55740D9A}
+	EndGlobalSection
+EndGlobal

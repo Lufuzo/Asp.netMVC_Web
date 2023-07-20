@@ -1,0 +1,163 @@
+[
+  {
+    "Id": "jenlooper-cactus",
+    "Maker": "@jenlooper",
+    "img": "https://creativenailandbeautytraining.co.uk/cdn/shop/products/image_300x300.jpg?v=1659899934",
+    "Url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "Title": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
+    "Description": "This project is a good learning project to get comfortable with soldering and programming an Arduino.",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+  {
+    "Id": "jenlooper-light",
+    "Maker": "jenlooper",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShcrNQQF0Q-g8ieeLbbQVmGcoHpEOXnO4YwQ&amp;usqp=CAU",
+    "Url": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
+    "Title": "Online Acrylic Nails Extension Training Course",
+    "Description": "Use craft items you have around the house, plus two LEDs and a LilyPad battery holder, to create a useful book light for reading in the dark.",
+    "Ratings": [
+      2
+    ]
+  },
+  {
+    "Id": "jenlooper-lightshow",
+    "Maker": "@jenlooper",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslzePOcTcH0xy7B5xms8XvhTV762TJwLXpQ&amp;usqp=CAU",
+    "Url": "https://www.hackster.io/agent-hawking-1/bling-your-laptop-with-an-internet-connected-light-show-30e4db",
+    "Title": "Bling your Laptop with an Internet-Connected Light Show",
+    "Description": "Create a web-connected light-strip API controllable from your website, using the Particle.io.",
+    "Ratings": null
+  },
+  {
+    "Id": "jenlooper-survival",
+    "Maker": "jenlooper",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcCUArqSJJPtl20NM0f0GvNytkpGzI-cNlRw&usqp=CAU",
+    "Url": "https://www.hackster.io/agent-hawking-1/create-a-compact-survival-kit-38bfdb",
+    "Title": "Create a Compact Survival Kit with LED Track Lighting",
+    "Description": "Use an Altoids tin with Chibitronics sticker LEDs to create a light-up compact that doubles as a survival kit for the young hipster",
+    "Ratings": null
+  },
+  {
+    "Id": "sailorhg-bubblesortpic",
+    "Maker": "sailorhg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5UlQ8hBLMqZRstnjfTgSpMdnZ7lvZrDHcTQ&usqp=CAU",
+    "Url": "https://twitter.com/sailorhg/status/1090107740049952770",
+    "Title": "Bubblesort Visualization",
+    "Description": "Visualization of sailor scouts sorted by bubblesort algorithm by their planet\u0027s distance from the sun",
+    "Ratings": [
+      5
+    ]
+  },
+  {
+    "Id": "sailorhg-corsage",
+    "Maker": "sailorhg",
+    "img": "https://netstorage-briefly.akamaized.net/images/92dcdddc61dd6298_w.jpg?&imwidth=600",
+    "Url": "https://twitter.com/sailorhg/status/1090113666911891456",
+    "Title": "Light-up Corsage",
+    "Description": "Light-up corsage I made with my summer intern.",
+    "Ratings": null
+  },
+  {
+    "Id": "sailorhg-kit",
+    "Maker": "sailorhg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvW5GAqfoKQjjvsvxdlvX8-2JdhuIPGQsSpg&usqp=CAU",
+    "Url": "https://twitter.com/sailorhg/status/1090122822007963648",
+    "Title": "Pastel hardware kit",
+    "Description": "Pastel hardware kits complete with custom manufactured pastel alligator clips.",
+    "Ratings": null
+  },
+  {
+    "Id": "sailorhg-led",
+    "Maker": "sailorhg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvW5GAqfoKQjjvsvxdlvX8-2JdhuIPGQsSpg&usqp=CAU",
+    "Url": "https://twitter.com/sailorhg/status/1090117277540745216",
+    "Title": "Heart-shaped LED",
+    "Description": "custom molded heart shaped LED with sprinkles.",
+    "Ratings": null
+  },
+  {
+    "Id": "selinazawacki-soi-shirt",
+    "Maker": "selinazawacki",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJniq9DbObt0_C5UuyuTEZlC88datHzD9mw&usqp=CAU",
+    "Url": "https://www.instagram.com/p/BNvESj-j8PI/",
+    "Title": "Black Sweatshirt",
+    "Description": "Black sweatshirt hoody with the Sick of the Internet logo.",
+    "Ratings": null
+  },
+  {
+    "Id": "selinazawacki-soi-pins",
+    "Maker": "selinazawacki",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiFhcQDzG8BO9rBh8SYgR12XAKMyDR85LNg&usqp=CAU",
+    "Url": "https://www.instagram.com/p/BNm6hZzDoEF/",
+    "Title": "Massage expects",
+    "Description": "Still some time to enter the pin/sticker giveaway! ",
+    "Ratings": null
+  },
+  {
+    "Id": "vogueandcode-hipster-dev-bro",
+    "Maker": "vogueandcode",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwA69yWk1O0jWgfQqhXt23xz4KyI7E1iqMhQ&usqp=CAU",
+    "Url": "https://www.vogueandcode.com/shop/hipster-dev-bro",
+    "Title": "Nail Kit",
+    "Description": "Hipster Dev is busy coding away while styled in a camo jacket and orange beanie.",
+    "Ratings": null
+  },
+  {
+    "Id": "vogueandcode-pretty-girls-code-tee",
+    "Maker": "vogueandcode",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvERAAnrTkVLwaa9Nol0BTuTyxGUqrzUU1HQ&usqp=CAU",
+    "Url": "https://www.vogueandcode.com/shop/pretty-girls-code-tee",
+    "Title": "Pretty Girls Code Tee",
+    "Description": "Everyone\u2019s favorite design is finally here on a tee! The Pretty Girls Code crew-neck tee is available in a soft pink with red writing.",
+    "Ratings": null
+  },
+  {
+    "Id": "vogueandcode-ruby-sis-2",
+    "Maker": "vogueandcode",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVtq7Ibi2BfzfLnhqsKD_jmK9-30lOrVtdQ&usqp=CAU",
+    "Url": "https://www.vogueandcode.com/shop/ruby-sis-2",
+    "Title": "Ruby Sis",
+    "Description": "Styled in a dashiki, Ruby Sis is listening to music while coding in her favorite language, Ruby!",
+    "Ratings": [
+      3,
+      5,
+      5,
+      4,
+      3,
+      2,
+      1,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+  },
+  {
+    "Id": "selinazawacki-moon",
+    "Maker": "selinazawacki",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWQ_JkFCbSNscvvLZEJTUF90CwQCYAaouPg&usqp=CAU",
+    "Url": "https://www.instagram.com/p/BFktVYPinKQ/",
+    "Title": "Holographic Dark Moon Necklace",
+    "Description": "Not sure if I\u0027ll be making more, get it while I have it in the store.",
+    "Ratings": null
+  },
+  {
+    "Id": "selinazawacki-shirt",
+    "Maker": "selinazawacki",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwdSMuALoKYmgVq9yGWXR6RtpYfKAaE75Fyg&usqp=CAU",
+    "Url": "https://www.instagram.com/p/BEXlpiZCnJ3",
+    "Title": "Floppy Crop",
+    "Description": "Used up the Diskette fabric today to make 2 of these crops.",
+    "Ratings": null
+  }
+]
